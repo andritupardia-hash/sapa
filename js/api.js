@@ -1,5 +1,5 @@
 /**
- * Portal Karyawan - API Layer
+ * SAPA (System Absensi Perangkat Android) - API Layer
  * Abstraction layer for backend communication
  * 
  * Mode:
